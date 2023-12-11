@@ -1,0 +1,10 @@
+car1:
+position:[257.5693, -0.03288604, 191.8779]  rotation:[0.01163417, 356.6071, 0.01115466]  speed:-2.686999  target found!False  distance54.15745
+car2:
+position:[0.0, 334.653, 499.9913]  rotation:[-0.03359455, -500.0, -2.90283e-05]  speed:1.0672e-05target found!False  distance0.0
+drone1:
+position[-1.249059e-07, 0.0, 0.0]  rotation:[719.2427, 357.7356, 25.0]  target found!True  distance0.0
+drone2:
+position[0.0, 0.0, -1.606469]  rotation:[0.0, 34.67517, 0.0]  target found!True  distance353.0598
+target:
+position[25.0, 87.75126, 0.0]
